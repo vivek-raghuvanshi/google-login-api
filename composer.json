@@ -1,0 +1,8 @@
+{
+    "name": "vendor/package",
+    "type":"yes",
+    "require": {
+    	"google/apiclient":"*",
+    	"google/apiclient":"^2.0"
+    }
+}
